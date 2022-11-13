@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\juta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\juta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro.csproj",
-      "projectName": "VSintro",
-      "projectPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\VSintro.csproj",
+      "projectUniqueName": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSIntro\\VSIntro.csproj",
+      "projectName": "VSIntro",
+      "projectPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSIntro\\VSIntro.csproj",
       "packagesPath": "C:\\Users\\juta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSintro\\obj\\",
+      "outputPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\HelloWorldVS\\VSIntro\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\juta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
