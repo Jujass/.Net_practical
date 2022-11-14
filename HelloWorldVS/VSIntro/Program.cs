@@ -18,6 +18,7 @@ class VSIntro
         string name = "Jhon";
         uint age = 18;///unsigned integer, because the age can't be negative
         //int age = 18;///integer
+        string strNo = "18";
         char gender = 'M';
         float height = 1.87f;
         bool underaged, smoking;
