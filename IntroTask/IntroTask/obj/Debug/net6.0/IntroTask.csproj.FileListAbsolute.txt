@@ -1,0 +1,15 @@
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.csproj.AssemblyReference.cache
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.AssemblyInfoInputs.cache
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.AssemblyInfo.cs
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.csproj.CoreCompileInputs.cache
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.exe
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.deps.json
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.runtimeconfig.json
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.dll
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\bin\Debug\net6.0\IntroTask.pdb
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.dll
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\refint\IntroTask.dll
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.pdb
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\IntroTask.genruntimeconfig.cache
+C:\Users\juta\OneDrive\Dokumentai\dotnetPractical\IntroTask\IntroTask\obj\Debug\net6.0\ref\IntroTask.dll

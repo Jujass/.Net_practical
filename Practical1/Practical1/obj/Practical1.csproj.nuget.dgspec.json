@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juta\\Documents\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj": {}
+    "C:\\Users\\juta\\OneDrive\\Dokumentai\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juta\\Documents\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj": {
+    "C:\\Users\\juta\\OneDrive\\Dokumentai\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juta\\Documents\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj",
+        "projectUniqueName": "C:\\Users\\juta\\OneDrive\\Dokumentai\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj",
         "projectName": "Practical1",
-        "projectPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj",
+        "projectPath": "C:\\Users\\juta\\OneDrive\\Dokumentai\\dotnetPractical\\Practical1\\Practical1\\Practical1.csproj",
         "packagesPath": "C:\\Users\\juta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juta\\Documents\\dotnetPractical\\Practical1\\Practical1\\obj\\",
+        "outputPath": "C:\\Users\\juta\\OneDrive\\Dokumentai\\dotnetPractical\\Practical1\\Practical1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juta\\AppData\\Roaming\\NuGet\\NuGet.Config",
