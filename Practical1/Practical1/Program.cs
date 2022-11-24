@@ -13,6 +13,5 @@
     
     }
 }
-public static readonly
-    System.ComponentModel.DataAnnotations.ValidationResult
+
 
